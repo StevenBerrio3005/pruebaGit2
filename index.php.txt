@@ -8,15 +8,24 @@
         <title>proyecto ecomercer</title>
     </head>
     <body>
+
     <h1>sebascaretomin</h1>
+    <p>modificacion daniel<p>
+    ya lo modifique
+    
+
+    <h1>sebascaretomin sebas</h1>
 
      sebas gracias por  el documento de drive
 
 
+<<<<<<< HEAD
      les voy a dañar el archivo
 
      
 
 
+=======
+>>>>>>> d4d0b501bdb9529fa2da23a2ce86192ce4bc95fa
     </body>
 </html>
